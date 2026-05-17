@@ -8,3 +8,13 @@
 [build.environment]
   NODE_VERSION = "20"
   NPM_FLAGS = "--legacy-peer-deps"
+  DATABASE_URL = "postgresql://postgres.ndwkcbdkbxvnbzgifwck:nyvxag-kabZi6-kavgyr@aws-0-us-east-1.pooler.supabase.com:6543/postgres"
+  NEXT_PUBLIC_SUPABASE_URL = "https://ndwkcbdkbxvnbzgifwck.supabase.co"
+  NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5kd2tjYmRrYnh2bmJ6Z2lmd2NrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg2NTY3OTgsImV4cCI6MjA5NDIzMjc5OH0.JDF3_AWGkpyQtDsAXYWwmcgQ0k0aWGodFRcbrffltbs"
+  SUPABASE_SERVICE_ROLE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5kd2tjYmRrYnh2bmJ6Z2lmd2NrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3ODY1Njc5OCwiZXhwIjoyMDk0MjMyNzk4fQ.Wi51DrEbWcP_7qtgKIRjJZ6i4YMcsBm4xZjOQOhc6YI"
+  GEMINI_API_KEY = "AIzaSyBaSf-DG-jGOnvKpJMCAxHCYzGNyt3s5Z4"
+  GEMINI_API_KEY_2 = "AIzaSyBagDogx5ma7ZGnvIh-ONqhFsyP79-DOzk"
+  GEMINI_API_KEY_3 = "AIzaSyAuoDT532maBHRC3sNj2MStJWkzDLQe680"
+  GEMINI_API_KEY_4 = "AIzaSyCZ4GWEfjhplKGOv1gkeGuDZj5nDvbYjjM"
+  GEMINI_API_KEY_5 = "AIzaSyBqVsh21RVnOITBFs55WyAGjbqmRqZQcok"
+  GEMINI_API_KEY_6 = "AIzaSyDUTXox-v27iO8IocYbK0LxVo6MX8lmOyE"
